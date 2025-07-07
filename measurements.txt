@@ -1,0 +1,10 @@
+Arapiraca;25.5
+Arapiraca;20.8
+Arapiraca;20.1
+Rio de Janeiro;24.3
+Rio de Janeiro;21.2
+Rio de Janeiro;18.3
+São Paulo;17.5
+São Paulo;20.0
+São Paulo;23.0
+Noruega;-7.5
